@@ -1,0 +1,9 @@
+.navbar{
+	border: none;
+	background-color: red;
+	color: white;
+	border-radius-top: 5px;
+	dispaly: block;
+	width: 100px;
+	heigth: 100px;
+}
